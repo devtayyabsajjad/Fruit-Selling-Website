@@ -1,0 +1,258 @@
+.header{
+    height: 60px;
+    width: 100%;
+    /* background-color: red; */
+}
+.header1{
+    
+    width: 40%;
+    height: 50px;
+    float: left;
+    display: flex;
+}
+.header2{
+    
+    width: 60%;
+    height: 50px;
+    float: right;
+    padding-top: 2px;
+}
+nav a{
+    padding: 15px;
+    text-decoration: none;
+    color: gray;
+
+}
+nav a:hover{
+    color: black;
+    
+    
+}
+#button1{
+    background-color: orange;
+    border-color: orange;
+    font-weight: bold;
+    border-radius: 50px;
+    padding: 8px;
+    cursor: pointer;
+    color: white;
+}
+#button1:hover{
+    background-color: white;
+    color: black;
+    border-black: black;
+    cursor: pointer;
+    
+}
+.center{
+    /* background-color:  skyblue; */
+    height: 500px;
+    width: 100%;
+}
+.center1{
+    /* background-color:  rgb(8, 121, 23); */
+    height: 500px;
+    width: 40%;
+    float: left;
+}
+.center2{
+    /* background-color:  rgb(185, 77, 5); */
+    height: 500px;
+    width: 60%;
+    float: right;
+    
+}
+
+.empty{
+    /* background-color: white; */
+    width: 100%;
+    height: 120px;
+}
+.button2{
+    background-color: orange;
+
+    border-color: orange;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    width: 120px;
+}
+.button3{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 120px;
+}
+.button2:hover{
+    background-color:  whitesmoke;
+    border-color: orange 1px;
+    color: black;
+    
+
+}
+.button3:hover{
+    background-color: whitesmoke;
+    border-color: black 1px;
+    color: black;
+
+}
+#service{
+    height: 500px;
+    width: 100%;
+}
+#empty2{
+    height: 35px;
+}
+.readbt{
+    background-color: black;
+    border-color: black;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 50px;
+}
+.readbt:hover{
+    background-color: white;
+    color: black;
+    border-black: black;
+    cursor: pointer;
+    
+}
+.fresh{
+    width: 100%;
+    height: 400px;
+    /* background-color: brown; */
+}
+.fresh1{
+    height: 300px;
+    width: 60%;
+    /* background-color: aquamarine; */
+    float: left;
+}
+.fresh2{
+height: 300px;
+width: 40%;
+/* background-color: rgb(136, 127, 255); */
+float: right;
+}
+.obutt{
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+    width: 120px;
+    border-radius: 50px;
+}
+.obutt:hover{
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+}
+.heading:hover{
+    cursor: pointer;
+    text-decoration: underline;
+   
+}
+.old{
+    width: 70%;
+    }
+.old h3{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+.para{
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+#contact1{
+    padding: 10px;
+    float: left;
+}
+#contact1 input{
+    padding: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.btt5{
+    background-color: orange;
+    border-color: orange;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+    width: 120px;
+    border-radius: 50px;
+}
+.btt5:hover{
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+
+}
+#contact{
+    background-image: url(orange-dish.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 225px;
+    
+    
+}
+#footer{
+    display: flex;
+    
+}
+#footer h3{
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+#footer p{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+.fb img:hover{
+    cursor: pointer;
+    
+}
+#button8{
+    background-color: orange;
+    border-color: orange;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+    width: 120px;
+    border-radius: 50px;
+}
+#button8:hover{
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+
+}
+#footer{
+    text-align: center;
+}
+.old h3:hover{
+    
+        cursor: pointer;
+        text-decoration: underline;
+       
+    
+}
+.old img:hover{
+    
+    cursor: pointer;
+}
+.fresh2 img:hover{
+    cursor: pointer;
+}
+.jhon:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
